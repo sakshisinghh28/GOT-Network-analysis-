@@ -1,0 +1,2 @@
+
+This project involves analyzing character relationships in "Game of Thrones" using network analysis and graph theory, focusing on centrality measures, community detection, and visualization to uncover the intricate dynamics between characters. By leveraging Python libraries such as matplotlib, the project aims to provide insights into key characters and their interactions, revealing how these relationships evolve throughout the series.
